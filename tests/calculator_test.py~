@@ -30,4 +30,4 @@ def test_calculator_divide_by_zero():
     """Testing division by zero"""
     # pylint: disable=unused-argument, redefined-outer-name
     # Dividing two numbers
-    assert Calculator.divide_number(2, 0) is None
+    assert Calculator.divide_number(2, 0) is None 
